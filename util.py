@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support 
+from sklearn.metrics import accuracy_score, precision_score, recall_score, precision_recall_fscore_support
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 nltk.download('wordnet')
