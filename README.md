@@ -1,4 +1,5 @@
-# Fundamentals of Data Science Course (5294FUDS6Y): United Nations General Assembly NLP Project
+# United Nations General Assembly NLP Project
+*Fundamentals of Data Science Course (5294FUDS6Y)*
 
 ![ScreenShot](https://raw.github.com/jah377/NLP_GeneralAssembly/main/report/github_wordcloud.png)
 
