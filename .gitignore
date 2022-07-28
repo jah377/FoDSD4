@@ -1,4 +1,5 @@
-/Data
-/Code
+/data
+/code
 /plots
 .DS_Store
+.ipynb_checkpoints
